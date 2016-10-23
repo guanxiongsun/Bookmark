@@ -5,3 +5,9 @@ http://askubuntu.com/questions/451221/how-do-i-install-the-nvidia-driver-for-a-g
 echo options nouveau modeset=0 | sudo tee -a /etc/modprobe.d/nouveau-kms.conf
 
 sudo update-initramfs -u
+
+
+
+
+
+sudo nautilus       //管理员方式打开文件管理器
